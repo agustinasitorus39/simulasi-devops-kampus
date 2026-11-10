@@ -1,0 +1,9 @@
+{
+  "name": "app-akademik",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Test berhasil\" && exit 0"
+  },
+  "license": "MIT"
+}
